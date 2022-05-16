@@ -1,1 +1,1 @@
-https://www.mehmet-ozdemir.com.tr/Apps
+http://www.mehmet-ozdemir.com.tr/Apps
