@@ -1,2 +1,1 @@
-# ProjectVersion
-Proje versiyon kontrolü
+http://www.mehmet-ozdemir.com.tr
