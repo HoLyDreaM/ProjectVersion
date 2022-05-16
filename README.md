@@ -1,1 +1,1 @@
-http://verimek.com/software
+https://www.mehmet-ozdemir.com.tr/Apps
